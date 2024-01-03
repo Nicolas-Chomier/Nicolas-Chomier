@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Nicolas-Chomier
-- 🔭 I’m currently working on web app for inprove my productivity and my skills.
-- 🌱 I’m currently learning Python and Javascript technology.
-- 💬 Ask me about my job.
-- 📫 How to reach me: soon...
-- ⚡ Fun fact: Before Covid I had never use laptop exept for watch youtube, since I totaly passionate about code.
+
